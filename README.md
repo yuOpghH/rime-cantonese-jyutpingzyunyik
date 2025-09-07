@@ -7,8 +7,10 @@ Cantonese Base rime use Jyutping convert to Romanization / hangul / Zyujam(zhuyi
 
 有乜嘢用？好玩囉！
 
+(可能有誤，忘見諒)
+
 <p align="center">
-<img src="https://github.com/yuOpghH/rime-cantonese-jyutpingzyunyik/blob/main/te-st.png"  style="width:300px;"/>
+<img src="https://github.com/yuOpghH/rime-cantonese-jyutpingzyunyik/blob/main/test1.jpg"  style="width:300px;"/>
 </p>
 
  ## 使用
