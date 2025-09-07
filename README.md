@@ -1,7 +1,7 @@
 # 粵拼轉譯羅馬字(拉丁化)/注音/諺文/ rime-cantonese-jyutpingzyunyik
 Cantonese Base rime use Jyutping convert to Romanization / hangul / Zyujam(zhuyin/Bopomofo)
 
-基於RIME使用粵拼轉譯輸出羅馬字(拉丁化)/注音/諺文。
+基於RIME依賴(jyut6ping3)[https://github.com/rime/rime-cantonese]使用粵拼轉譯輸出羅馬字(拉丁化)/注音/諺文。
 
 注意！注意！注意！並不是以”羅馬字/注音/諺文 輸出=>粵文“ ，而是”粵拼=>羅馬字/注音/諺文“
 
