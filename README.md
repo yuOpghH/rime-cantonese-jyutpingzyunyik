@@ -38,4 +38,4 @@ jyut6ping3-hangul
 
 非標準。基於知乎用户[荷達-粵語諺文方案](https://www.zhihu.com/question/27563380/answer/123653538)。
 
-優點在於：挪用gwㄲ kwㄸ  wㅆ zㅈ jㅉ 即在範圍內字符情況下覆蓋粵文
+優點在於：挪用gwㄲ kwㄸ  wㅆ zㅈ jㅉ ㅓa ㅔai ㅏaa ㅐㅁai ㅕeo ㅑoe  即在範圍內字符情況下覆蓋粵文
