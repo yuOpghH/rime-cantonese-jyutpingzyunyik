@@ -1,4 +1,4 @@
-# 粵拼轉譯羅馬字(拉丁化)/注音/諺文/ rime-cantonese-jyutpingzyunyik
+# 粵語廣東話 粵拼轉譯羅馬字(拉丁化)/注音/諺文/ rime-cantonese-jyutpingzyunyik
 Cantonese Base rime use Jyutping convert to Romanization / hangul / Zyujam(zhuyin/Bopomofo)
 
 基於RIME依賴[jyut6ping3](https://github.com/rime/rime-cantonese)使用粵拼轉譯輸出羅馬字(拉丁化)/注音/諺文。
@@ -7,7 +7,7 @@ Cantonese Base rime use Jyutping convert to Romanization / hangul / Zyujam(zhuyi
 
 有乜嘢用？好玩囉！
 
-(可能有誤，忘見諒)
+(可能有誤，望見諒)
 
 <p align="center">
 <img src="https://github.com/yuOpghH/rime-cantonese-jyutpingzyunyik/blob/main/test1.jpg"  style="width:300px;"/>
