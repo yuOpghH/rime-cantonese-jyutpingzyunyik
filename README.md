@@ -18,7 +18,7 @@ Cantonese Base rime use Jyutping convert to Romanization / hangul / Zyujam(zhuyi
  - pc windows rime
    - 下載安裝[Rime](https://rime.im/)，下載[本方案](https://github.com/yuOpghH/rime-cantonese-jyutpingzyunyik/releases/tag/1.0)，部署到“用户文件夾”，“輸入法設定”選中本方案，部署即可
 
-輸出時使用`ctrl+shift+enter`、`shift+enter`上屏
+默認按鍵：`space(空格鍵)` 上屏comment的右側轉換文本，`shift+space` (空格鍵)上屏左側漢字
 
 ## 羅馬字
 
@@ -47,10 +47,10 @@ jyut6ping3-hangul
 | :------- | :------ | :------- | 
 | 漢羅混寫 | 漢lò混寫 | hón-lò-wạn-sẻ
 | 漢注混寫 | 漢ㄗㄩˋ混寫 | ㄏ干ˋㄗㄩˋㄨㇵㄋˎㄙㄝˊ
-| 漢諺混寫 | 漢찜ˎ混寫 | 혼ˋ찜ˎ썬ˎ스ˊ
+| 漢諺混寫 | 漢찜ˎ混寫 | 혼ˋ로ˏ썬ˎ스ˊ
 
 | 人皆生而平等，享有造物主賦予給他們的不可剝奪的權利，包括生命、自由和追求幸福的權利 
 | :------- | 
 | jàn-gaai sang-jì-pìng-dảng ，hỏeng-jãu zọu-mạt-zyủ fú-jyũ kap taa-mùn dik bat-hỏ-mok-dyụt dik kyùn-lẹi ，baau-kút sang-mịng、zị-jàu wò zeoi-kàu hạng-fuk dik kyùn-lẹi 
 | 一ㇵㄋˏ ㄍㄞˉ ㄙㇵㄥˉ一ˏㄆㄧㄥˏㄉㇵㄥˊ，ㄏサㄥˊ一ㇵㄨ˘ ㄗㄡˎㄇㇵㄊˎㄗㄩˊ ㄈㄨˋ一ㄩ˘ ㄎㇵㄆˉ ㄊㄚˉㄇㄨㄣˏ ㄉㄧㄎˉ ㄅㇵㄊˉㄏㄛˊㄇㄛㄎˉㄉㄩㄊˎ ㄉㄧㄎˉ ㄎㄩㄣˏㄌㄟˎㄅㄠˉㄎㄨㄊˋ ㄙㇵㄥˉㄇㄧㄥˎ、ㄗㄧˊ一ㇵㄨ˘ ㄨㄛˏ ㄗ￥ㄧˉㄎㇵㄨˏ ㄏㇵㄥˎㄈㄨㄎˉ ㄉㄧㄎˉ ㄎㄩㄣˏㄌㄟˎ 
-| 쩐ˏ 개ˉ 상ˉ찌ˏ핑ˏ당ˊ，량ˊ쩔˘ 졸ˎ몯ˎ쥬ˊ 부ˉ쓔ˎ 컵ˉ 타ˉ문ˏ 딕ˉ 볻ˉ호ˊ목ˉ듇ˎ 딕ˉ 큔ˏ릐ˎ，발ˉ쿧ˋ 상ˉ밍ˎ、지ˎ쩔ˏ 쏘ˏ 졔ˉ컬ˏ 항ˎ뿍ˉ 딕ˉ 큔ˏ릐ˎ 
+| 쩐ˏ 개ˉ 성ˉ찌ˏ핑ˏ덩ˊ ，향ˊ쩔˘ 졸ˎ먿ˎ쥬ˊ 뿌ˉ쮸ˎ 타ˉ문ˏ 딕ˉ 벋ˉ호ˊ목ˉ듇ˎ dik 큔ˏ릐ˎ ， 발ˉ쿧ˋ 성ˉ밍ˎ 、지ˊ쩔˘ 쏘ˏ 졔ˉ컬ˏ 헝ˎ뿍ˉ 딕ˉ 큔ˏ릐ˎ
