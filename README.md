@@ -18,7 +18,7 @@ Cantonese Base rime use Jyutping convert to Romanization / hangul / Zyujam(zhuyi
  - pc windows rime
    - 下載安裝[Rime](https://rime.im/)，下載[本方案](https://github.com/yuOpghH/rime-cantonese-jyutpingzyunyik/releases/tag/1.0)，部署到“用户文件夾”，“輸入法設定”選中本方案，部署即可
 
-默認按鍵：`space(空格鍵)` 上屏comment的右側轉換文本，`shift+space` (空格鍵)上屏左側漢字
+ - 輸出時使用`ctrl+shift+enter`、`shift+enter`上屏
 
 ## 羅馬字
 
