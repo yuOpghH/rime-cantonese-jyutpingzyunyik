@@ -10,7 +10,7 @@ Cantonese Base rime use Jyutping convert to Romanization / hangul / Zyujam(zhuyi
 (可能有誤，望見諒)
 
 <p align="center">
-<img src="https://github.com/yuOpghH/rime-cantonese-jyutpingzyunyik/blob/main/test1.jpg"  style="width:300px;"/>
+<img src="https://github.com/yuOpghH/rime-cantonese-jyutpingzyunyik/blob/main/test01.jpg"  style="width:300px;"/>
 </p>
 
  ## 使用
@@ -47,7 +47,7 @@ jyut6ping3-hangul
 | :------- | :------ | :------- | 
 | 漢羅混寫 | 漢lò混寫 | hón-lò-wạn-sẻ
 | 漢注混寫 | 漢ㄗㄩˋ混寫 | ㄏ干ˋㄗㄩˋㄨㇵㄋˎㄙㄝˊ
-| 漢諺混寫 | 漢찜ˎ混寫 | 혼ˋ찐ˎ썬ˎ스ˊ
+| 漢諺混寫 | 漢찐ˎ混寫 | 혼ˋ찐ˎ썬ˎ스ˊ
 
 | 人皆生而平等，享有造物主賦予給他們的不可剝奪的權利，包括生命、自由和追求幸福的權利 
 | :------- | 
