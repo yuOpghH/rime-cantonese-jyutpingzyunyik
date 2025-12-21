@@ -12,13 +12,19 @@ Cantonese Base rime use Jyutping convert to Romanization / hangul / Zyujam(zhuyi
 <p align="center">
 <img src="https://github.com/yuOpghH/rime-cantonese-jyutpingzyunyik/blob/main/test01.jpg"  style="width:300px;"/>
 </p>
+<p align="center">
+<img src="https://github.com/yuOpghH/rime-cantonese-jyutpingzyunyik/blob/main/test4.gif"  style="width:400px;"/>
+</p>
 
  ## 使用
 
  - pc windows rime
    - 下載安裝[Rime](https://rime.im/)，下載[本方案](https://github.com/yuOpghH/rime-cantonese-jyutpingzyunyik/releases/tag/1.0)，部署到“用户文件夾”，“輸入法設定”選中本方案，部署即可
 
- - 輸出時使用`ctrl+shift+enter`、`shift+enter`上屏
+ - 新增快速鍵，輸出時便於可用單手`shift+space`上屏，亦可使用RIME預設之`ctrl+shift+enter`、`shift+enter`上屏
+ - 敲擊粵拼碼後，可使用\`鍵，調換至無音標模式。
+   - （但由於jyut6ping3對\`鍵反查佔位緣故，後續輸出會變成普拼，為保持方案上的統一不作改變）
+
 
 ## 羅馬字
 
