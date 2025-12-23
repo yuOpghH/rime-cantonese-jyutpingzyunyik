@@ -23,8 +23,6 @@ Cantonese Base rime use Jyutping convert to Romanization / hangul / Zyujam(zhuyi
 
  - 新增快速鍵`shift+space`，輸出時便於可用單手上屏，亦可使用RIME預設之`ctrl+shift+enter`、`shift+enter`上屏
  - 諺文和注音方案擊打粵拼碼後，可使用\`鍵，切換至“無聲調”模式。
-   - （但由於jyut6ping3對\`鍵反查佔位緣故，後續輸出會變成普拼，為保持方案上的一致不作改變）
-
 
 ## 羅馬字
 
