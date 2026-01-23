@@ -44,6 +44,8 @@ jyut6ping3-hangul
 
 優點在於：挪用gwㄲ kwㄸ  wㅆ zㅈ jㅉ ㅓa ㅔai ㅏaa ㅐㅁai ㅕeo ㅑoe  即在範圍內字符情況下覆蓋粵文
 
+- 如需 `打諺文 to 出粵文`，歡迎瀏覽[RIME 諺文粵語方案](https://github.com/yuOpghH/rime-jyuteul2set)
+
 ## 展示
 
 
